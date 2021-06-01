@@ -8,4 +8,4 @@ You just have to start the app and you can use this web-based calculator.
 
 This app was made with React
 
-## Made by Maxooz
+## Made by [Maxooz](github.com/MaxoozX)
